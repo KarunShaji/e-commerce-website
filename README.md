@@ -18,6 +18,11 @@ This is a simple e-commerce website developed using HTML, CSS, and JavaScript.
 - **JavaScript**: Interactivity and dynamic content.
 - **Bootstrap**: Responsive design and layout components.
 
+## Getting Started
+1. Clone the repository: `git clone https://github.com/KarunShaji/e-commerce-website-HTML-CSS-JS` (You must have git installed to clone repositories)
+2. Navigate to the project directory.
+3. Open `index.html` in your web browser.
+
 ## Usage
 
 1. Browse products by clicking on categories or using the search functionality.
